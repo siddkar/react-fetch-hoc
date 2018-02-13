@@ -1,2 +1,2 @@
-# react-fetch-hoc
-An example on React higher order component with fetch API
+# React HOC example using Fetch API
+A sample application on React higher order component with fetch API
